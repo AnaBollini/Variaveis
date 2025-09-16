@@ -5,6 +5,10 @@ VisualStudioVersion = 17.14.36109.1 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variaveis", "Variaveis\Variaveis.csproj", "{C0C8A82D-3234-4218-8C06-F08C335A4D40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertendoValores", "ConvertendoValores\ConvertendoValores.csproj", "{BCC9C027-CD39-4D41-8A06-F6D7F1814825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade-01", "Atividade-01\Atividade-01.csproj", "{39C58616-65B2-4D6F-BA5B-2190C8CED70F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C0C8A82D-3234-4218-8C06-F08C335A4D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0C8A82D-3234-4218-8C06-F08C335A4D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0C8A82D-3234-4218-8C06-F08C335A4D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC9C027-CD39-4D41-8A06-F6D7F1814825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC9C027-CD39-4D41-8A06-F6D7F1814825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC9C027-CD39-4D41-8A06-F6D7F1814825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC9C027-CD39-4D41-8A06-F6D7F1814825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39C58616-65B2-4D6F-BA5B-2190C8CED70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C58616-65B2-4D6F-BA5B-2190C8CED70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C58616-65B2-4D6F-BA5B-2190C8CED70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C58616-65B2-4D6F-BA5B-2190C8CED70F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
